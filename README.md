@@ -1,4 +1,5 @@
 # Credit-Risk-Decision-Engine
-Breakout of ML from larger DE projecct
+breakout of ML from a larger DE project
 
-Credit the original data source
+data source: https://www.kaggle.com/code/ricaxavier/credit-risk
+which actually pulls from: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
